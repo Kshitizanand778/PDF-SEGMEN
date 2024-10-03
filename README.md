@@ -1,3 +1,5 @@
+Done By Ashish
+
 # PDF Segmentation Application
 
 This Python application segments a system-generated PDF into distinct sections based on whitespace between blocks of text. It identifies logical sections such as headings and paragraphs and saves them as separate PDF files.
