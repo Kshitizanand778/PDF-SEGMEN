@@ -18,20 +18,20 @@ This Python application segments a system-generated PDF into distinct sections b
 2. **Install Required Packages**:
     # Make sure you have Python 3.11 installed.Then install the required libraries using pip:
 
-bash
+
 pip install pdfplumber PyPDF2
 
 ## How to Run the Application
 Open the Terminal in VS Code if it’s not already open.
 Navigate to the Project Directory (if not already there):
 
-bash
+
 cd path/to/your/project/directory
 
 
-Execute the script with:
+# Execute the script with:
 
-bash
+
 python pdfim.py
 
 4. **Run the Application**:
